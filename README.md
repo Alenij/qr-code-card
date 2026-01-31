@@ -33,6 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Ijiebor Bethany]
+- Name - [Ijiebor Bethany]
 - Frontend Mentor - [@Alenij ](https://www.frontendmentor.io/profile/Alenij)
 - Twitter - [@bethanyijiebor](https://www.twitter.com/bethanyijiebor)
